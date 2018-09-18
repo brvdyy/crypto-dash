@@ -1,0 +1,23 @@
+{
+  "name": "crypto-dash",
+  "version": "1.0.0",
+  "description": "Cryptocurrency Dashboard",
+  "main": "app.js",
+  "dependencies": {
+    "chartjs": "^0.3.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebradyc/crypto-dash.git"
+  },
+  "author": "Brady Carmichael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebradyc/crypto-dash/issues"
+  },
+  "homepage": "https://github.com/thebradyc/crypto-dash#readme"
+}

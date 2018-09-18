@@ -1,0 +1,15 @@
+.welcome-message {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.toolbar-cntr {
+    justify-content: center !important;
+    width: 100% !important;
+}
+
+.toolbar-btn {
+    margin-top: 1em !important;
+    width: 20% !important;
+    background-color: #343a40 !important;
+}
